@@ -1,6 +1,5 @@
-# Raspberry-Face-Recognition
-Use Python and Open CV to recognize multi face and show the name
-#Sample to get video from PiCam
+# Raspberry-Face-Recognition Edited for Raspi Cam (Cheap Chinese clone) and Python 3
+
 # import the necessary packages
 from picamera.array import PiRGBArray
 from picamera import PiCamera
